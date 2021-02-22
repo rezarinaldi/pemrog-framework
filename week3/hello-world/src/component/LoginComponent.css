@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter';
+}
+
+input[type=text] {
+    background-color: #1D282A;
+    height: 50px;
+    color: #FFF;
+    border: 0;
+}
+
+input[type=text]:focus {
+    background-color: #1D282A;
+    color: #FFF;
+}
