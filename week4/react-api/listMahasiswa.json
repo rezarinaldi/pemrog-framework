@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 1614787680497,
+      "nama": "Reza Rinaldi",
+      "nim": "1841720078",
+      "alamat": "Perum Mangliawan Permai B-11, Malang",
+      "hp": "081234567890",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 1614787839313,
+      "nama": "Fulan",
+      "nim": "1841720001",
+      "alamat": "Malang",
+      "hp": "081345678902",
+      "angkatan": "2021",
+      "status": "cuti"
+    }
+  ]
+}

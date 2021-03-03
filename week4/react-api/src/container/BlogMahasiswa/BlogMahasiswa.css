@@ -1,0 +1,37 @@
+.mahasiswa {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    display: flex;
+}
+
+.gambar-mahasiswa {
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+.gambar-mahasiswa img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.konten-mahasiswa {
+    flex: 1;
+}
+
+.konten-mahasiswa div.nama-mahasiswa {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-mahasiswa p.nim-mahasiswa p.alamat-mahasiswa p.hp-mahasiswa p.angkatan-mahasiswa p.status-mahasiswa {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
