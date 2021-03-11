@@ -93,6 +93,7 @@ const fakeAuth = {
 
 function AuthButton() {
   let history = useHistory();
+  let location = useLocation();
   return fakeAuth.isAuthenticated ? (
     <button
       className="btn btn-light"
