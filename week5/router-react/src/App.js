@@ -7,7 +7,6 @@ import {
   Switch,
   useHistory,
   useLocation,
-  withRouter,
   // useParams,
   // useRouteMatch,
 } from "react-router-dom";
@@ -226,13 +225,17 @@ const fakeAuth = {
   },
 };
 
-const AuthButton = withRouter(({ history }) =>
-  fakeAuth.isAuthenticated ? (
+function AuthButton() {
+  let history = useHistory();
+  let location = useLocation();
+  let { from } = location.state || { from: { pathname: "/" } };
+
+  return fakeAuth.isAuthenticated ? (
     <p>
       Welcome!{" "}
       <button
         onClick={() => {
-          fakeAuth.signout(() => history.push("/"));
+          fakeAuth.signout(() => history.push(from));
         }}
       >
         Sign out
@@ -240,8 +243,8 @@ const AuthButton = withRouter(({ history }) =>
     </p>
   ) : (
     <p>You are not logged in.</p>
-  )
-);
+  );
+}
 
 function PrivateRoute({ children, ...rest }) {
   return (
