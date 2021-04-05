@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  border-bottom: 1px solid #e9ecef;
+  width: 100%;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+header .navbar {
+  height: 80px;
+}
+
+ul .navbar-nav a nav-link {
+  letter-spacing: 1px;
+  color: #1d282a;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

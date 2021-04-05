@@ -1,0 +1,88 @@
+{
+  "ricecooker": [
+    {
+      "id": 1,
+      "nama": "NIKO Rice Cooker NK18N",
+      "harga": 200000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5dc39c7091b51.jpg",
+      "stok": 50
+    },
+    {
+      "id": 2,
+      "nama": "SANKEN Rice Cooker SJ-3010",
+      "harga": 580000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5c19e8b8a9ed9.jpg",
+      "stok": 50
+    },
+    {
+      "id": 3,
+      "nama": "COSMOS Rice Cooker CRJ-1001",
+      "harga": 235000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5d006a444ddca.jpg",
+      "stok": 50
+    },
+    {
+      "id": 4,
+      "nama": "MASPION Rice Cooker MRC-180N",
+      "harga": 349000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/MASPION-Rice-Cooker-[MRC-180N]-SKU01814892-20141118154720.jpg",
+      "stok": 50
+    },
+    {
+      "id": 5,
+      "nama": "MIYAKO Rice Cooker PSG-607",
+      "harga": 160000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/MIYAKO-Rice-Cooker-PSG-607--SKU01116293-201631111016.jpg",
+      "stok": 50
+    },
+    {
+      "id": 6,
+      "nama": "SHARP Rice Cooker KSH-777",
+      "harga": 1050000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/SHARP-Rice-Cooker-KSH-777--3318261264-2017726143238.jpg",
+      "stok": 50
+    },
+    {
+      "id": 7,
+      "nama": "KIRIN Rice Cooker KRC-150",
+      "harga": 258000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5d6c8be7184d0.jpg",
+      "stok": 50
+    },
+    {
+      "id": 8,
+      "nama": "PANASONIC Rice Cooker SR-CEZ18SPR",
+      "harga": 640000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5e71c81e294e4.jpg",
+      "stok": 50
+    },
+    {
+      "id": 9,
+      "nama": "ELECTROLUX Rice Cooker ERC 3305",
+      "harga": 720000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5a018064967c3.jpg",
+      "stok": 50
+    },
+    {
+      "id": 10,
+      "nama": "PHILIPS Rice Cooker Digital HD3038/30",
+      "harga": 917000,
+      "gambar": "https://static.bmdstatic.com/pk/product/thumbnail/5ac1d96ea793f.jpg",
+      "stok": 50
+    },
+    {
+      "id": 11,
+      "nama": "MASPION Gas Rice Cooker GRC 230",
+      "harga": 3420000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5e7473a2ad188.jpg",
+      "stok": 50
+    },
+    {
+      "id": 12,
+      "nama": "SHARP Rice Cooker KS-P8MY-GR",
+      "harga": 321000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5bbad84f23a20.jpg",
+      "stok": 50
+    }
+  ]
+}

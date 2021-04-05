@@ -1,0 +1,25 @@
+{
+  "keranjang": [
+    {
+      "id": 11,
+      "nama": "MASPION Gas Rice Cooker GRC 230",
+      "harga": 3420000,
+      "stok": 50,
+      "qty": 1
+    },
+    {
+      "id": 6,
+      "nama": "SHARP Rice Cooker KSH-777",
+      "harga": 1050000,
+      "stok": 50,
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "SANKEN Rice Cooker SJ-3010",
+      "harga": 580000,
+      "stok": 50,
+      "qty": 1
+    }
+  ]
+}
