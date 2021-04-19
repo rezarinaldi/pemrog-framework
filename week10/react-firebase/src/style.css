@@ -49,6 +49,7 @@ button[type="submit"] {
   border-radius: 5px;
   text-transform: uppercase;
   padding: 15px;
+  margin-bottom: 20px;
 }
 
 .googleBtn {
