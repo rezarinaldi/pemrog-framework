@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:300,400,500,700,800&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #FAFAFA;
+}
+
+.artikel {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    display: flex;
+}
+
+.gambar-artikel {
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+.gambar-artikel img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.konten-artikel {
+    flex: 1;
+}
+
+.konten-artikel div.judul-artikel {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-artikel p.isi-artikel {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
